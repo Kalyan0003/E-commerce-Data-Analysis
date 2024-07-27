@@ -5,3 +5,5 @@ Refer to the attached dataset for your work.
 
 This assignment includes various scenarios requiring you to write SQL queries.
 
+Assignments solutions available in SalesDataAnalysis.sql
+
