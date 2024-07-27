@@ -1,0 +1,12 @@
+Data Analysis for an e-commerce company:
+1. List the top 5 products by sales amount.
+2. Calculate the average profit margin per category.
+3. Find the number of orders placed per segment for the year 2012.
+4. Identify the top 3 states with the highest shipping costs.
+5. Calculate the total sales and profit for each market in the year 2012.
+6. Determine the percentage of orders that had a discount applied.
+7. Find the average shipping cost per order priority.
+8. List the products with a profit margin greater than 20%.
+9. Calculate the total quantity sold for each sub-category.
+10. Calculate the total sales and profit for each year, using a CTE.
+11. List the products with a profit margin greater than 20%, using a CTE.
